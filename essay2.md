@@ -1,7 +1,7 @@
 The role of Artificial Intelligence in future technology
 ========================================================
 
-In the past decades, the fields of Artificial Intelligence (AI) has demonstrated an astonishing performance in solving a wide spectrum of problems. 
+In the past decades, the fields of Artificial Intelligence (AI) has demonstrated an astonishing performance in a wide range of areas. 
 
 The revolutionaly paper by Kryzhevski et. al. (2012), which Dr. Fei-Fei Li described as a "defining moment of the rennaisance of Deep Learning", has brought a rapid rise to the fields of Neural Networks and Deep Learning. Deep Neural Networks (DNN) were so effective at recognising the patterns in data comparing to statistical and linear optimization approaches and achieved such a huge success in different tasks, that it faded out the whole field of traditional Machine Learning. Public datasets such as ImageNet (Deng et al. 2009) and MNIST (LeCun, 1999) has made AI more available for individual researches, institutions and small companies, which resulted such a fast development of this field as we see today. 
 
